@@ -1,3 +1,3 @@
 # Solum
 This is my first repository 
-I am finally adding this line
+I hope to do awesome projects in the future
